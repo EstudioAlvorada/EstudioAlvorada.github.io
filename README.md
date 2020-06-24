@@ -1,10 +1,9 @@
 <h1 align=center>
     <img src="https://img.icons8.com/cotton/38/000000/visual-game-boy--v1.png"/> EstudioAlvorada <img src="https://img.icons8.com/cotton/38/000000/sunset--v2.png"/> 
 </h1>
-<hr>
 
-![IMG](alvorada_logo.png)
-
+<p align="center">
+    <img src="https://github.com/EstudioAlvorada/estudioalvorada.github.io/blob/master/alvorada_logo.png" width="400" height="400"><br><br>
 <br>
 
 <p align="justify">
